@@ -1,0 +1,6 @@
+{
+  "name": "Randhawa Real Estate",
+  "description": "Find a Place That Feels Like Home. Production-ready real estate website and working admin panel for residential and commercial properties in Delhi-NCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
